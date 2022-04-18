@@ -36,8 +36,10 @@ Comandos, descripcion y ejemplos
 - __FIND:__ Con el comando find y la opción -iname puedes encontrar archivos. La sintaxis es: find {donde\_buscar} -iname {archivo\_a\_buscar}
 ![find](img/find.png)
 
-__CAT:__ El comando cat te permite leer el contenido de archivos.
-![cat](img/cat.png)
+- __CAT:__ 
+    El comando cat te permite leer el contenido de archivos.
+
+    ![cat](img/cat.png)
 
 - __HEAD:__ Se utiliza para mostrar información,  si lo usamos sin parámetros, de las 10 primeras líneas de un archivo en la salida estándar.  También se puede utilizar para mostrar información de varios ficheros a la vez.
 
