@@ -57,7 +57,8 @@ Comandos, descripcion y ejemplos
 
     ![cat](img/cat.png)
 
-- __HEAD:__ Se utiliza para mostrar información,  si lo usamos sin parámetros, de las 10 primeras líneas de un archivo en la salida estándar.  También se puede utilizar para mostrar información de varios ficheros a la vez.
+- __HEAD:__ 
+    Se utiliza para mostrar información,  si lo usamos sin parámetros, de las 10 primeras líneas de un archivo en la salida estándar.  También se puede utilizar para mostrar información de varios ficheros a la vez.
 
     No tiene un gran número de parámetros, el más importante es «-n«, donde indicamos el número de líneas que queremos que nos muestre.
     
@@ -73,7 +74,7 @@ Comandos, descripcion y ejemplos
     ![less](img/less.png)
 
 - __WC:__ 
-     (word count) es un comando utilizado en el sistema operativo Unix que permite realizar diferentes conteos desde la entrada estándar, ya sea de palabras, caracteres o saltos de líneas.
+    (word count) es un comando utilizado en el sistema operativo Unix que permite realizar diferentes conteos desde la entrada estándar, ya sea de palabras, caracteres o saltos de líneas.
 
     El programa lee la entrada estándar o una lista concatenada y genera una o más de las estadísticas siguientes: conteo de líneas, conteo de palabras, y conteo de bytes. Si se le pasa como parámetro una lista de archivos, muestra estadísticas de cada archivo individual y luego las estadísticas generales.
     ![wc](img/ec.png)
