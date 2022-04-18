@@ -3,7 +3,8 @@ Comandos, descripcion y ejemplos
 
 # LISTA DE COMANDOS LINUX 
 
-- __CD__: El comando cd (change directory) permite moverse entre directorios del sistema.
+- __CD__:
+     El comando cd (change directory) permite moverse entre directorios del sistema.
 
     cd {ruta\_absoluta\_o\_relativa}
     Puedes cambiar de directorio especificando la ruta absoluta desde el directorio raíz o relativa desde tu ubicación actual, en Linux el directorio actual se indica con el signo .
@@ -11,30 +12,45 @@ Comandos, descripcion y ejemplos
 
     ![cd](img/cd.png)
 
-- __PWD:__ Significa Personal Working Directory te muestra la ruta del directorio en que estás ubicado actualmente. ![pwd](img/pwd.png)
+- __PWD:__ S
+    ignifica Personal Working Directory te muestra la ruta del directorio en que estás ubicado actualmente. 
+    
+    ![pwd](img/pwd.png)
 
-- __LS:__ Este comando lista los archivos y directorios de la carpeta actual.
-![ls](img/ls.png)
+- __LS:__ 
+    Este comando lista los archivos y directorios de la carpeta actual.
+    
+    ![ls](img/ls.png)
 
-- __RMDIR:__ El comando rmdir (Remove directory) elimina carpetas vacías. Su sintaxis es: rmdir {nombre\_carpeta}
-![RMDIR](img/RMDIR.png)
+- __RMDIR:__ 
+    El comando rmdir (Remove directory) elimina carpetas vacías. Su sintaxis es: rmdir {nombre\_carpeta}
 
-- __TOUCH:__ Con este comando puedes crear nuevos archivos en el directorio actual.
-![TOUCH](img/TOUCH.png)
+    ![RMDIR](img/RMDIR.png)
+
+- __TOUCH:__ 
+    Con este comando puedes crear nuevos archivos en el directorio actual.
+
+    ![TOUCH](img/TOUCH.png)
 
 - __RM:__ El comando rm (Remove) elimina archivos. Su sintaxis es rm {nombre\_del\_archivo}
 
     Para eliminar directorios no vacíos usa el comando rm con la opción -r
     ![rm](img/rm.png)
 
-- __MV:__ El comando mv (Move) mueve directorios o archivos de una ubicación a otra. Su sintaxis es: mv {ubicación\_actual} {nueva\_ubicación}
-![mv](img/mv.png)
+- __MV:__ 
+    El comando mv (Move) mueve directorios o archivos de una ubicación a otra. Su sintaxis es: mv {ubicación\_actual} {nueva\_ubicación}
+    
+    ![mv](img/mv.png)
 
-- __CP:__ El comando cp (Copy) copia archivos o directorios. Su sintaxis es cp {origen} {destino}
-![cp](img/co.png)
+- __CP:__
+    El comando cp (Copy) copia archivos o directorios. Su sintaxis es cp {origen} {destino}
 
-- __FIND:__ Con el comando find y la opción -iname puedes encontrar archivos. La sintaxis es: find {donde\_buscar} -iname {archivo\_a\_buscar}
-![find](img/find.png)
+    ![cp](img/co.png)
+
+- __FIND:__ 
+    Con el comando find y la opción -iname puedes encontrar archivos. La sintaxis es: find {donde\_buscar} -iname {archivo\_a\_buscar}
+
+    ![find](img/find.png)
 
 - __CAT:__ 
     El comando cat te permite leer el contenido de archivos.
